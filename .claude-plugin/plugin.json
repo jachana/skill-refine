@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "refine",
+  "description": "Backlog refinement / grooming / enrichment — make a backlog ready to work: enrich thin cards with context and acceptance criteria, estimate, order by priority, and flag what's blocked, duplicated, or…",
+  "author": {
+    "name": "jachana"
+  },
+  "repository": "https://github.com/jachana/skill-refine",
+  "license": "MIT"
+}
